@@ -1,6 +1,5 @@
 # ORACLE VM(Virtual Box)とは？
 VirtualBoxは、Oracleが開発した仮想化ソフトウェアパッケージであり、*Windows、macOS、Linux*などのホストOS上で、オペレーティングシステムを実行することができます。
-VirtualBoxは、無料で利用できる点と、さまざまなOSに対応していることから、開発者やテスト環境構築に利用されます。
 ### 主な特徴:
 **クロスプラットフォーム対応:** VirtualBoxは、*Windows、macOS、Linux*上で動作し、これらのホストOS上に異なるゲストOSを実行可能。
 
